@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone.6.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DebuggingXib1/DebuggingXib1ViewController.cs">
+    <Files>
+      <File FileName="DebuggingXib1/AppDelegate.cs" Line="10" Column="36" />
+      <File FileName="DebuggingXib1/Main.cs" Line="1" Column="1" />
+      <File FileName="DebuggingXib1/DebuggingXib1ViewController.cs" Line="26" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

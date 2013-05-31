@@ -1,0 +1,1906 @@
+<doc>
+    <assembly>
+        <name>GoogleMaps</name>
+    </assembly>
+    <members>
+        <member name="T:ApiDefinition.Messaging">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:ApiDefinition.Messaging">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:ApiDefinition.Messaging.CLLocationCoordinate2D_objc_msgSend_stret_PointF(MonoTouch.CoreLocation.CLLocationCoordinate2D@,System.IntPtr,System.IntPtr,System.Drawing.PointF)">
+            <param name="retval">To be added.</param>
+            <param name="receiver">To be added.</param>
+            <param name="selector">To be added.</param>
+            <param name="arg1">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:ApiDefinition.Messaging.CLLocationCoordinate2D_objc_msgSend_stret_UInt32(MonoTouch.CoreLocation.CLLocationCoordinate2D@,System.IntPtr,System.IntPtr,System.UInt32)">
+            <param name="retval">To be added.</param>
+            <param name="receiver">To be added.</param>
+            <param name="selector">To be added.</param>
+            <param name="arg1">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:ApiDefinition.Messaging.CLLocationCoordinate2D_objc_msgSendSuper_stret_PointF(MonoTouch.CoreLocation.CLLocationCoordinate2D@,System.IntPtr,System.IntPtr,System.Drawing.PointF)">
+            <param name="retval">To be added.</param>
+            <param name="receiver">To be added.</param>
+            <param name="selector">To be added.</param>
+            <param name="arg1">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:ApiDefinition.Messaging.CLLocationCoordinate2D_objc_msgSendSuper_stret_UInt32(MonoTouch.CoreLocation.CLLocationCoordinate2D@,System.IntPtr,System.IntPtr,System.UInt32)">
+            <param name="retval">To be added.</param>
+            <param name="receiver">To be added.</param>
+            <param name="selector">To be added.</param>
+            <param name="arg1">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:ApiDefinition.Messaging.float_objc_msgSend_CLLocationCoordinate2D_float_float(System.IntPtr,System.IntPtr,MonoTouch.CoreLocation.CLLocationCoordinate2D,System.Single,System.Single)">
+            <param name="receiver">To be added.</param>
+            <param name="selector">To be added.</param>
+            <param name="arg1">To be added.</param>
+            <param name="arg2">To be added.</param>
+            <param name="arg3">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:ApiDefinition.Messaging.float_objc_msgSend_float_CLLocationCoordinate2D(System.IntPtr,System.IntPtr,System.Single,MonoTouch.CoreLocation.CLLocationCoordinate2D)">
+            <param name="receiver">To be added.</param>
+            <param name="selector">To be added.</param>
+            <param name="arg1">To be added.</param>
+            <param name="arg2">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:ApiDefinition.Messaging.float_objc_msgSendSuper_CLLocationCoordinate2D_float_float(System.IntPtr,System.IntPtr,MonoTouch.CoreLocation.CLLocationCoordinate2D,System.Single,System.Single)">
+            <param name="receiver">To be added.</param>
+            <param name="selector">To be added.</param>
+            <param name="arg1">To be added.</param>
+            <param name="arg2">To be added.</param>
+            <param name="arg3">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:ApiDefinition.Messaging.float_objc_msgSendSuper_float_CLLocationCoordinate2D(System.IntPtr,System.IntPtr,System.Single,MonoTouch.CoreLocation.CLLocationCoordinate2D)">
+            <param name="receiver">To be added.</param>
+            <param name="selector">To be added.</param>
+            <param name="arg1">To be added.</param>
+            <param name="arg2">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:ApiDefinition.Messaging.IntPtr_objc_msgSend_CLLocationCoordinate2D_CLLocationCoordinate2D(System.IntPtr,System.IntPtr,MonoTouch.CoreLocation.CLLocationCoordinate2D,MonoTouch.CoreLocation.CLLocationCoordinate2D)">
+            <param name="receiver">To be added.</param>
+            <param name="selector">To be added.</param>
+            <param name="arg1">To be added.</param>
+            <param name="arg2">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:ApiDefinition.Messaging.IntPtr_objc_msgSend_CLLocationCoordinate2D_float(System.IntPtr,System.IntPtr,MonoTouch.CoreLocation.CLLocationCoordinate2D,System.Single)">
+            <param name="receiver">To be added.</param>
+            <param name="selector">To be added.</param>
+            <param name="arg1">To be added.</param>
+            <param name="arg2">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:ApiDefinition.Messaging.IntPtr_objc_msgSend_CLLocationCoordinate2D_float_Double_Double(System.IntPtr,System.IntPtr,MonoTouch.CoreLocation.CLLocationCoordinate2D,System.Single,System.Double,System.Double)">
+            <param name="receiver">To be added.</param>
+            <param name="selector">To be added.</param>
+            <param name="arg1">To be added.</param>
+            <param name="arg2">To be added.</param>
+            <param name="arg3">To be added.</param>
+            <param name="arg4">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:ApiDefinition.Messaging.IntPtr_objc_msgSend_Double_Double_float(System.IntPtr,System.IntPtr,System.Double,System.Double,System.Single)">
+            <param name="receiver">To be added.</param>
+            <param name="selector">To be added.</param>
+            <param name="arg1">To be added.</param>
+            <param name="arg2">To be added.</param>
+            <param name="arg3">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:ApiDefinition.Messaging.IntPtr_objc_msgSend_Double_Double_float_Double_Double(System.IntPtr,System.IntPtr,System.Double,System.Double,System.Single,System.Double,System.Double)">
+            <param name="receiver">To be added.</param>
+            <param name="selector">To be added.</param>
+            <param name="arg1">To be added.</param>
+            <param name="arg2">To be added.</param>
+            <param name="arg3">To be added.</param>
+            <param name="arg4">To be added.</param>
+            <param name="arg5">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:ApiDefinition.Messaging.IntPtr_objc_msgSend_float_PointF(System.IntPtr,System.IntPtr,System.Single,System.Drawing.PointF)">
+            <param name="receiver">To be added.</param>
+            <param name="selector">To be added.</param>
+            <param name="arg1">To be added.</param>
+            <param name="arg2">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:ApiDefinition.Messaging.IntPtr_objc_msgSend_VisibleRegion(System.IntPtr,System.IntPtr,Google.Maps.VisibleRegion)">
+            <param name="receiver">To be added.</param>
+            <param name="selector">To be added.</param>
+            <param name="arg1">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:ApiDefinition.Messaging.IntPtr_objc_msgSendSuper_CLLocationCoordinate2D_CLLocationCoordinate2D(System.IntPtr,System.IntPtr,MonoTouch.CoreLocation.CLLocationCoordinate2D,MonoTouch.CoreLocation.CLLocationCoordinate2D)">
+            <param name="receiver">To be added.</param>
+            <param name="selector">To be added.</param>
+            <param name="arg1">To be added.</param>
+            <param name="arg2">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:ApiDefinition.Messaging.IntPtr_objc_msgSendSuper_CLLocationCoordinate2D_float(System.IntPtr,System.IntPtr,MonoTouch.CoreLocation.CLLocationCoordinate2D,System.Single)">
+            <param name="receiver">To be added.</param>
+            <param name="selector">To be added.</param>
+            <param name="arg1">To be added.</param>
+            <param name="arg2">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:ApiDefinition.Messaging.IntPtr_objc_msgSendSuper_CLLocationCoordinate2D_float_Double_Double(System.IntPtr,System.IntPtr,MonoTouch.CoreLocation.CLLocationCoordinate2D,System.Single,System.Double,System.Double)">
+            <param name="receiver">To be added.</param>
+            <param name="selector">To be added.</param>
+            <param name="arg1">To be added.</param>
+            <param name="arg2">To be added.</param>
+            <param name="arg3">To be added.</param>
+            <param name="arg4">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:ApiDefinition.Messaging.IntPtr_objc_msgSendSuper_Double_Double_float(System.IntPtr,System.IntPtr,System.Double,System.Double,System.Single)">
+            <param name="receiver">To be added.</param>
+            <param name="selector">To be added.</param>
+            <param name="arg1">To be added.</param>
+            <param name="arg2">To be added.</param>
+            <param name="arg3">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:ApiDefinition.Messaging.IntPtr_objc_msgSendSuper_Double_Double_float_Double_Double(System.IntPtr,System.IntPtr,System.Double,System.Double,System.Single,System.Double,System.Double)">
+            <param name="receiver">To be added.</param>
+            <param name="selector">To be added.</param>
+            <param name="arg1">To be added.</param>
+            <param name="arg2">To be added.</param>
+            <param name="arg3">To be added.</param>
+            <param name="arg4">To be added.</param>
+            <param name="arg5">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:ApiDefinition.Messaging.IntPtr_objc_msgSendSuper_float_PointF(System.IntPtr,System.IntPtr,System.Single,System.Drawing.PointF)">
+            <param name="receiver">To be added.</param>
+            <param name="selector">To be added.</param>
+            <param name="arg1">To be added.</param>
+            <param name="arg2">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:ApiDefinition.Messaging.IntPtr_objc_msgSendSuper_VisibleRegion(System.IntPtr,System.IntPtr,Google.Maps.VisibleRegion)">
+            <param name="receiver">To be added.</param>
+            <param name="selector">To be added.</param>
+            <param name="arg1">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:ApiDefinition.Messaging.PointF_objc_msgSend_CLLocationCoordinate2D(System.IntPtr,System.IntPtr,MonoTouch.CoreLocation.CLLocationCoordinate2D)">
+            <param name="receiver">To be added.</param>
+            <param name="selector">To be added.</param>
+            <param name="arg1">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:ApiDefinition.Messaging.PointF_objc_msgSend_stret_CLLocationCoordinate2D(System.Drawing.PointF@,System.IntPtr,System.IntPtr,MonoTouch.CoreLocation.CLLocationCoordinate2D)">
+            <param name="retval">To be added.</param>
+            <param name="receiver">To be added.</param>
+            <param name="selector">To be added.</param>
+            <param name="arg1">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:ApiDefinition.Messaging.PointF_objc_msgSendSuper_CLLocationCoordinate2D(System.IntPtr,System.IntPtr,MonoTouch.CoreLocation.CLLocationCoordinate2D)">
+            <param name="receiver">To be added.</param>
+            <param name="selector">To be added.</param>
+            <param name="arg1">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:ApiDefinition.Messaging.PointF_objc_msgSendSuper_stret_CLLocationCoordinate2D(System.Drawing.PointF@,System.IntPtr,System.IntPtr,MonoTouch.CoreLocation.CLLocationCoordinate2D)">
+            <param name="retval">To be added.</param>
+            <param name="receiver">To be added.</param>
+            <param name="selector">To be added.</param>
+            <param name="arg1">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:ApiDefinition.Messaging.VisibleRegion_objc_msgSend_stret(Google.Maps.VisibleRegion@,System.IntPtr,System.IntPtr)">
+            <param name="retval">To be added.</param>
+            <param name="receiver">To be added.</param>
+            <param name="selector">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:ApiDefinition.Messaging.VisibleRegion_objc_msgSendSuper_stret(Google.Maps.VisibleRegion@,System.IntPtr,System.IntPtr)">
+            <param name="retval">To be added.</param>
+            <param name="receiver">To be added.</param>
+            <param name="selector">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:ApiDefinition.Messaging.void_objc_msgSend_CLLocationCoordinate2D_IntPtr(System.IntPtr,System.IntPtr,MonoTouch.CoreLocation.CLLocationCoordinate2D,System.IntPtr)">
+            <param name="receiver">To be added.</param>
+            <param name="selector">To be added.</param>
+            <param name="arg1">To be added.</param>
+            <param name="arg2">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:ApiDefinition.Messaging.void_objc_msgSend_CLLocationCoordinate2D_UInt32(System.IntPtr,System.IntPtr,MonoTouch.CoreLocation.CLLocationCoordinate2D,System.UInt32)">
+            <param name="receiver">To be added.</param>
+            <param name="selector">To be added.</param>
+            <param name="arg1">To be added.</param>
+            <param name="arg2">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:ApiDefinition.Messaging.void_objc_msgSend_IntPtr_CLLocationCoordinate2D(System.IntPtr,System.IntPtr,System.IntPtr,MonoTouch.CoreLocation.CLLocationCoordinate2D)">
+            <param name="receiver">To be added.</param>
+            <param name="selector">To be added.</param>
+            <param name="arg1">To be added.</param>
+            <param name="arg2">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:ApiDefinition.Messaging.void_objc_msgSend_UInt32_CLLocationCoordinate2D(System.IntPtr,System.IntPtr,System.UInt32,MonoTouch.CoreLocation.CLLocationCoordinate2D)">
+            <param name="receiver">To be added.</param>
+            <param name="selector">To be added.</param>
+            <param name="arg1">To be added.</param>
+            <param name="arg2">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:ApiDefinition.Messaging.void_objc_msgSendSuper_CLLocationCoordinate2D_IntPtr(System.IntPtr,System.IntPtr,MonoTouch.CoreLocation.CLLocationCoordinate2D,System.IntPtr)">
+            <param name="receiver">To be added.</param>
+            <param name="selector">To be added.</param>
+            <param name="arg1">To be added.</param>
+            <param name="arg2">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:ApiDefinition.Messaging.void_objc_msgSendSuper_CLLocationCoordinate2D_UInt32(System.IntPtr,System.IntPtr,MonoTouch.CoreLocation.CLLocationCoordinate2D,System.UInt32)">
+            <param name="receiver">To be added.</param>
+            <param name="selector">To be added.</param>
+            <param name="arg1">To be added.</param>
+            <param name="arg2">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:ApiDefinition.Messaging.void_objc_msgSendSuper_IntPtr_CLLocationCoordinate2D(System.IntPtr,System.IntPtr,System.IntPtr,MonoTouch.CoreLocation.CLLocationCoordinate2D)">
+            <param name="receiver">To be added.</param>
+            <param name="selector">To be added.</param>
+            <param name="arg1">To be added.</param>
+            <param name="arg2">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:ApiDefinition.Messaging.void_objc_msgSendSuper_UInt32_CLLocationCoordinate2D(System.IntPtr,System.IntPtr,System.UInt32,MonoTouch.CoreLocation.CLLocationCoordinate2D)">
+            <param name="receiver">To be added.</param>
+            <param name="selector">To be added.</param>
+            <param name="arg1">To be added.</param>
+            <param name="arg2">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="T:Google.Maps.CameraPosition">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.CameraPosition">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.CameraPosition(MonoTouch.Foundation.NSCoder)">
+            <param name="coder">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.CameraPosition(MonoTouch.Foundation.NSObjectFlag)">
+            <param name="t">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.CameraPosition(System.IntPtr)">
+            <param name="handle">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.CameraPosition(MonoTouch.CoreLocation.CLLocationCoordinate2D,System.Single,System.Double,System.Double)">
+            <param name="target">To be added.</param>
+            <param name="zoom">To be added.</param>
+            <param name="bearing">To be added.</param>
+            <param name="viewingAngle">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.CameraPosition.Bearing">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.CameraPosition.ClassHandle">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.CameraPosition.FromCamera(MonoTouch.CoreLocation.CLLocationCoordinate2D,System.Single)">
+            <param name="target">To be added.</param>
+            <param name="zoom">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.CameraPosition.FromCamera(System.Double,System.Double,System.Single)">
+            <param name="latitude">To be added.</param>
+            <param name="longitude">To be added.</param>
+            <param name="zoom">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.CameraPosition.FromCamera(MonoTouch.CoreLocation.CLLocationCoordinate2D,System.Single,System.Double,System.Double)">
+            <param name="target">To be added.</param>
+            <param name="zoom">To be added.</param>
+            <param name="bearing">To be added.</param>
+            <param name="viewingAngle">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.CameraPosition.FromCamera(System.Double,System.Double,System.Single,System.Double,System.Double)">
+            <param name="latitude">To be added.</param>
+            <param name="longitude">To be added.</param>
+            <param name="zoom">To be added.</param>
+            <param name="bearing">To be added.</param>
+            <param name="viewingAngle">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.CameraPosition.Target">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.CameraPosition.ViewingAngle">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.CameraPosition.Zoom">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.CameraPosition.ZoomAtCoordinate(MonoTouch.CoreLocation.CLLocationCoordinate2D,System.Single,System.Single)">
+            <param name="coord">To be added.</param>
+            <param name="meters">To be added.</param>
+            <param name="points">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="T:Google.Maps.CameraUpdate">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.CameraUpdate(MonoTouch.Foundation.NSCoder)">
+            <param name="coder">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.CameraUpdate(MonoTouch.Foundation.NSObjectFlag)">
+            <param name="t">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.CameraUpdate(System.IntPtr)">
+            <param name="handle">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.CameraUpdate.ClassHandle">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.CameraUpdate.FitBounds(Google.Maps.CoordinateBounds)">
+            <param name="bounds">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.CameraUpdate.FitBounds(Google.Maps.CoordinateBounds,System.Single)">
+            <param name="bounds">To be added.</param>
+            <param name="padding">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.CameraUpdate.Scroll(System.Single,System.Single)">
+            <param name="x">To be added.</param>
+            <param name="y">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.CameraUpdate.SetCamera(Google.Maps.CameraPosition)">
+            <param name="camera">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.CameraUpdate.SetTarget(MonoTouch.CoreLocation.CLLocationCoordinate2D)">
+            <param name="target">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.CameraUpdate.SetTarget(MonoTouch.CoreLocation.CLLocationCoordinate2D,System.Single)">
+            <param name="target">To be added.</param>
+            <param name="zoom">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.CameraUpdate.ZoomByDelta(System.Single)">
+            <param name="delta">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.CameraUpdate.ZoomByZoom(System.Single,System.Drawing.PointF)">
+            <param name="zoom">To be added.</param>
+            <param name="point">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.CameraUpdate.ZoomIn">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.CameraUpdate.ZoomOut">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.CameraUpdate.ZoomToZoom(System.Single)">
+            <param name="zoom">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="T:Google.Maps.Circle">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.Circle">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.Circle(MonoTouch.Foundation.NSCoder)">
+            <param name="coder">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.Circle(MonoTouch.Foundation.NSObjectFlag)">
+            <param name="t">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.Circle(System.IntPtr)">
+            <param name="handle">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Circle.ClassHandle">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.Circle.Dispose(System.Boolean)">
+            <param name="disposing">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Circle.FillColor">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.Circle.FromPosition(MonoTouch.CoreLocation.CLLocationCoordinate2D,System.Single)">
+            <param name="position">To be added.</param>
+            <param name="radius">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Circle.Position">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Circle.Radius">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Circle.StrokeColor">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Circle.StrokeWidth">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="T:Google.Maps.Constants">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.Constants(MonoTouch.Foundation.NSCoder)">
+            <param name="coder">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.Constants(MonoTouch.Foundation.NSObjectFlag)">
+            <param name="t">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.Constants(System.IntPtr)">
+            <param name="handle">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Constants.ClassHandle">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Constants.GroundOverlayDefaultAnchor">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Constants.GroundOverlayDefaultZoom">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Constants.LayerCameraBearingKey">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Constants.LayerCameraLatitudeKey">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Constants.LayerCameraLongitudeKey">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Constants.LayerCameraViewingAngleKey">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Constants.LayerCameraZoomLevelKey">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Constants.MarkerDefaultGroundAnchor">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Constants.MarkerDefaultInfoWindowAnchor">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Constants.MaxZoomLevel">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Constants.MinZoomLevel">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="T:Google.Maps.CoordinateBounds">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.CoordinateBounds">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.CoordinateBounds(Google.Maps.Path)">
+            <param name="path">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.CoordinateBounds(Google.Maps.VisibleRegion)">
+            <param name="region">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.CoordinateBounds(MonoTouch.Foundation.NSCoder)">
+            <param name="coder">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.CoordinateBounds(MonoTouch.Foundation.NSObjectFlag)">
+            <param name="t">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.CoordinateBounds(System.IntPtr)">
+            <param name="handle">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.CoordinateBounds(MonoTouch.CoreLocation.CLLocationCoordinate2D,MonoTouch.CoreLocation.CLLocationCoordinate2D)">
+            <param name="coord1">To be added.</param>
+            <param name="coord2">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.CoordinateBounds.ClassHandle">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.CoordinateBounds.ContainsCoordinate(MonoTouch.CoreLocation.CLLocationCoordinate2D)">
+            <param name="coordinate">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.CoordinateBounds.Including(Google.Maps.CoordinateBounds)">
+            <param name="bounds">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.CoordinateBounds.Including(MonoTouch.CoreLocation.CLLocationCoordinate2D)">
+            <param name="coordinate">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.CoordinateBounds.IntersectsBounds(Google.Maps.CoordinateBounds)">
+            <param name="bounds">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.CoordinateBounds.NorthEast">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.CoordinateBounds.SouthWest">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.CoordinateBounds.Valid">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="T:Google.Maps.Geocoder">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.Geocoder">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.Geocoder(MonoTouch.Foundation.NSCoder)">
+            <param name="coder">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.Geocoder(MonoTouch.Foundation.NSObjectFlag)">
+            <param name="t">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.Geocoder(System.IntPtr)">
+            <param name="handle">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Geocoder.ClassHandle">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.Geocoder.ReverseGeocodeCord(MonoTouch.CoreLocation.CLLocationCoordinate2D,Google.Maps.ReverseGeocodeCallback)">
+            <param name="coordinate">To be added.</param>
+            <param name="handler">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Geocoder.SharedGeocoder">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="T:Google.Maps.GMSCameraEventArgs">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.GMSCameraEventArgs(Google.Maps.CameraPosition)">
+            <param name="position">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.GMSCameraEventArgs.Position">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="T:Google.Maps.GMSCoordEventArgs">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.GMSCoordEventArgs(MonoTouch.CoreLocation.CLLocationCoordinate2D)">
+            <param name="coordinate">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.GMSCoordEventArgs.Coordinate">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="T:Google.Maps.GMSInfoFor">
+            <param name="mapView">To be added.</param>
+            <param name="marker">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="T:Google.Maps.GMSMarkerEventEventArgs">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.GMSMarkerEventEventArgs(Google.Maps.Marker)">
+            <param name="marker">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.GMSMarkerEventEventArgs.Marker">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="T:Google.Maps.GMSOverlayEventEventArgs">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.GMSOverlayEventEventArgs(Google.Maps.Overlay)">
+            <param name="overlay">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.GMSOverlayEventEventArgs.Overlay">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="T:Google.Maps.GMSTappedMarker">
+            <param name="mapView">To be added.</param>
+            <param name="marker">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="T:Google.Maps.GroundOverlay">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.GroundOverlay">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.GroundOverlay(MonoTouch.Foundation.NSCoder)">
+            <param name="coder">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.GroundOverlay(MonoTouch.Foundation.NSObjectFlag)">
+            <param name="t">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.GroundOverlay(System.IntPtr)">
+            <param name="handle">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.GroundOverlay.Anchor">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.GroundOverlay.Bearing">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.GroundOverlay.ClassHandle">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.GroundOverlay.Dispose(System.Boolean)">
+            <param name="disposing">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.GroundOverlay.GetGroundOverlay(MonoTouch.CoreLocation.CLLocationCoordinate2D,MonoTouch.UIKit.UIImage)">
+            <param name="position">To be added.</param>
+            <param name="icon">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.GroundOverlay.Icon">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.GroundOverlay.Position">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.GroundOverlay.ZoomLevel">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="T:Google.Maps.MapLayer">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.MapLayer">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.MapLayer(MonoTouch.Foundation.NSCoder)">
+            <param name="coder">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.MapLayer(MonoTouch.Foundation.NSObjectFlag)">
+            <param name="t">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.MapLayer(System.IntPtr)">
+            <param name="handle">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.MapLayer.CameraBearing">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.MapLayer.CameraLatitude">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.MapLayer.CameraLongitude">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.MapLayer.CameraViewingAngle">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.MapLayer.CameraZoomLevel">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.MapLayer.ClassHandle">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="T:Google.Maps.MapServices">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.MapServices(MonoTouch.Foundation.NSCoder)">
+            <param name="coder">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.MapServices(MonoTouch.Foundation.NSObjectFlag)">
+            <param name="t">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.MapServices(System.IntPtr)">
+            <param name="handle">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.MapServices.ClassHandle">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.MapServices.OpenSourceLicenseInfo">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.MapServices.ProvideAPIKey(System.String)">
+            <param name="APIKey">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.MapServices.SDKVersion">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="T:Google.Maps.MapView">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.MapView">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.MapView(MonoTouch.Foundation.NSCoder)">
+            <param name="coder">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.MapView(MonoTouch.Foundation.NSObjectFlag)">
+            <param name="t">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.MapView(System.IntPtr)">
+            <param name="handle">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.MapView.Camera">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="E:Google.Maps.MapView.CameraPositionChanged">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.MapView.ClassHandle">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.MapView.Clear">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.MapView.Delegate">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.MapView.Dispose(System.Boolean)">
+            <param name="disposing">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.MapView.FromCamera(System.Drawing.RectangleF,Google.Maps.CameraPosition)">
+            <param name="frame">To be added.</param>
+            <param name="camera">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.MapView.GroundOverlays">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.MapView.InfoFor">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.MapView.Layer">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="E:Google.Maps.MapView.LongPress">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.MapView.MapType">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.MapView.Markers">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.MapView.MoveCamera(Google.Maps.CameraUpdate)">
+            <param name="update">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.MapView.MyLocation">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.MapView.MyLocationEnabled">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.MapView.Polylines">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.MapView.Projection">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.MapView.SelectedMarker">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.MapView.Settings">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.MapView.StartRendering">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.MapView.StopRendering">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="E:Google.Maps.MapView.Tapped">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="E:Google.Maps.MapView.TappedInfo">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.MapView.TappedMarker">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="E:Google.Maps.MapView.TappedOverlay">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.MapView.TrafficEnabled">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.MapView.WeakDelegate">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="T:Google.Maps.MapViewAnimation">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.MapViewAnimation.Animate(Google.Maps.MapView,Google.Maps.CameraPosition)">
+            <param name="This">To be added.</param>
+            <param name="cameraPosition">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.MapViewAnimation.Animate(Google.Maps.MapView,Google.Maps.CameraUpdate)">
+            <param name="This">To be added.</param>
+            <param name="cameraUpdate">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.MapViewAnimation.Animate(Google.Maps.MapView,MonoTouch.CoreLocation.CLLocationCoordinate2D)">
+            <param name="This">To be added.</param>
+            <param name="location">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.MapViewAnimation.Animate(Google.Maps.MapView,System.Double)">
+            <param name="This">To be added.</param>
+            <param name="viewingAngle">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.MapViewAnimation.Animate(Google.Maps.MapView,System.Single)">
+            <param name="This">To be added.</param>
+            <param name="zoom">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.MapViewAnimation.AnimateToBearing(Google.Maps.MapView,System.Double)">
+            <param name="This">To be added.</param>
+            <param name="bearing">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="T:Google.Maps.MapViewDelegate">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.MapViewDelegate">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.MapViewDelegate(MonoTouch.Foundation.NSCoder)">
+            <param name="coder">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.MapViewDelegate(MonoTouch.Foundation.NSObjectFlag)">
+            <param name="t">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.MapViewDelegate(System.IntPtr)">
+            <param name="handle">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.MapViewDelegate.DidChangeCameraPosition(Google.Maps.MapView,Google.Maps.CameraPosition)">
+            <param name="mapView">To be added.</param>
+            <param name="position">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.MapViewDelegate.DidLongPressAtCoordinate(Google.Maps.MapView,MonoTouch.CoreLocation.CLLocationCoordinate2D)">
+            <param name="mapView">To be added.</param>
+            <param name="coordinate">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.MapViewDelegate.DidTapAtCoordinate(Google.Maps.MapView,MonoTouch.CoreLocation.CLLocationCoordinate2D)">
+            <param name="mapView">To be added.</param>
+            <param name="coordinate">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.MapViewDelegate.DidTapInfoWindowOfMarker(Google.Maps.MapView,Google.Maps.Marker)">
+            <param name="mapView">To be added.</param>
+            <param name="marker">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.MapViewDelegate.DidTapOverlay(Google.Maps.MapView,Google.Maps.Overlay)">
+            <param name="mapView">To be added.</param>
+            <param name="overlay">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.MapViewDelegate.InfoFor(Google.Maps.MapView,Google.Maps.Marker)">
+            <param name="mapView">To be added.</param>
+            <param name="marker">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.MapViewDelegate.TappedMarker(Google.Maps.MapView,Google.Maps.Marker)">
+            <param name="mapView">To be added.</param>
+            <param name="marker">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="T:Google.Maps.MapViewType">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="F:Google.Maps.MapViewType.Hybrid">
+            <summary>To be added.</summary>
+        </member>
+        <member name="F:Google.Maps.MapViewType.Normal">
+            <summary>To be added.</summary>
+        </member>
+        <member name="F:Google.Maps.MapViewType.Satellite">
+            <summary>To be added.</summary>
+        </member>
+        <member name="F:Google.Maps.MapViewType.Terrain">
+            <summary>To be added.</summary>
+        </member>
+        <member name="T:Google.Maps.Marker">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.Marker">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.Marker(MonoTouch.Foundation.NSCoder)">
+            <param name="coder">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.Marker(MonoTouch.Foundation.NSObjectFlag)">
+            <param name="t">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.Marker(System.IntPtr)">
+            <param name="handle">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Marker.Animated">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Marker.ClassHandle">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.Marker.Dispose(System.Boolean)">
+            <param name="disposing">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.Marker.FromPosition(MonoTouch.CoreLocation.CLLocationCoordinate2D)">
+            <param name="position">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Marker.GroundAnchor">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Marker.Icon">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Marker.InfoWindowAnchor">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.Marker.MarkerImage(MonoTouch.UIKit.UIColor)">
+            <param name="color">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Marker.Position">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Marker.Snippet">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Marker.UserData">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="T:Google.Maps.MutablePath">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.MutablePath">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.MutablePath(MonoTouch.Foundation.NSCoder)">
+            <param name="coder">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.MutablePath(MonoTouch.Foundation.NSObjectFlag)">
+            <param name="t">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.MutablePath(System.IntPtr)">
+            <param name="handle">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.MutablePath.AddCoordinate(MonoTouch.CoreLocation.CLLocationCoordinate2D)">
+            <param name="coord">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.MutablePath.AddLatLong(System.Double,System.Double)">
+            <param name="latitude">To be added.</param>
+            <param name="longitude">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.MutablePath.ClassHandle">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.MutablePath.InsertCoordinate(MonoTouch.CoreLocation.CLLocationCoordinate2D,System.UInt32)">
+            <param name="coord">To be added.</param>
+            <param name="index">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.MutablePath.RemoveAllCoordinates">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.MutablePath.RemoveCoordinate(System.UInt32)">
+            <param name="index">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.MutablePath.RemoveLastCoordinate">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.MutablePath.ReplaceCoordinate(System.UInt32,MonoTouch.CoreLocation.CLLocationCoordinate2D)">
+            <param name="index">To be added.</param>
+            <param name="coord">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="T:Google.Maps.Overlay">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.Overlay(MonoTouch.Foundation.NSCoder)">
+            <param name="coder">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.Overlay(MonoTouch.Foundation.NSObjectFlag)">
+            <param name="t">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.Overlay(System.IntPtr)">
+            <param name="handle">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Overlay.ClassHandle">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.Overlay.Dispose(System.Boolean)">
+            <param name="disposing">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Overlay.Map">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Overlay.Tappable">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Overlay.Title">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="T:Google.Maps.Path">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.Path">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.Path(Google.Maps.Path)">
+            <param name="path">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.Path(MonoTouch.Foundation.NSCoder)">
+            <param name="coder">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.Path(MonoTouch.Foundation.NSObjectFlag)">
+            <param name="t">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.Path(System.IntPtr)">
+            <param name="handle">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Path.ClassHandle">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.Path.CoordinateAtIndex(System.UInt32)">
+            <param name="index">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Path.Count">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Path.EncodedPath">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.Path.FromEncodedPath(System.String)">
+            <param name="encodedPath">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Path.GetPath">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="T:Google.Maps.Polygon">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.Polygon">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.Polygon(MonoTouch.Foundation.NSCoder)">
+            <param name="coder">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.Polygon(MonoTouch.Foundation.NSObjectFlag)">
+            <param name="t">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.Polygon(System.IntPtr)">
+            <param name="handle">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Polygon.ClassHandle">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.Polygon.Dispose(System.Boolean)">
+            <param name="disposing">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Polygon.FillColor">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.Polygon.FromPath(Google.Maps.Path)">
+            <param name="path">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Polygon.Geodesic">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Polygon.Path">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Polygon.StrokeColor">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Polygon.StrokeWidth">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="T:Google.Maps.Polyline">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.Polyline">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.Polyline(MonoTouch.Foundation.NSCoder)">
+            <param name="coder">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.Polyline(MonoTouch.Foundation.NSObjectFlag)">
+            <param name="t">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.Polyline(System.IntPtr)">
+            <param name="handle">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Polyline.ClassHandle">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.Polyline.Dispose(System.Boolean)">
+            <param name="disposing">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.Polyline.FromPath(Google.Maps.Path)">
+            <param name="path">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Polyline.Geodesic">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Polyline.Path">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Polyline.StrokeColor">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Polyline.StrokeWidth">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="T:Google.Maps.Projection">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.Projection">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.Projection(MonoTouch.Foundation.NSCoder)">
+            <param name="coder">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.Projection(MonoTouch.Foundation.NSObjectFlag)">
+            <param name="t">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.Projection(System.IntPtr)">
+            <param name="handle">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Projection.ClassHandle">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.Projection.ContainsCoordinate(MonoTouch.CoreLocation.CLLocationCoordinate2D)">
+            <param name="coordinate">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.Projection.CoordinateForPoint(System.Drawing.PointF)">
+            <param name="point">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.Projection.PointForCoordinate(MonoTouch.CoreLocation.CLLocationCoordinate2D)">
+            <param name="coordinate">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.Projection.PointsForMeters(System.Single,MonoTouch.CoreLocation.CLLocationCoordinate2D)">
+            <param name="meters">To be added.</param>
+            <param name="coordinate">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.Projection.VisibleRegion">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="T:Google.Maps.ReverseGeocodeCallback">
+            <param name="response">To be added.</param>
+            <param name="error">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="T:Google.Maps.ReverseGeocodeResponse">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.ReverseGeocodeResponse">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.ReverseGeocodeResponse(MonoTouch.Foundation.NSCoder)">
+            <param name="coder">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.ReverseGeocodeResponse(MonoTouch.Foundation.NSObjectFlag)">
+            <param name="t">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.ReverseGeocodeResponse(System.IntPtr)">
+            <param name="handle">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.ReverseGeocodeResponse.ClassHandle">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.ReverseGeocodeResponse.Dispose(System.Boolean)">
+            <param name="disposing">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.ReverseGeocodeResponse.FirstResult">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.ReverseGeocodeResponse.Results">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="T:Google.Maps.ReverseGeocodeResult">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.ReverseGeocodeResult">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.ReverseGeocodeResult(MonoTouch.Foundation.NSCoder)">
+            <param name="coder">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.ReverseGeocodeResult(MonoTouch.Foundation.NSObjectFlag)">
+            <param name="t">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.ReverseGeocodeResult(System.IntPtr)">
+            <param name="handle">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.ReverseGeocodeResult.AddressLine1">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.ReverseGeocodeResult.AddressLine2">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.ReverseGeocodeResult.ClassHandle">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="T:Google.Maps.UISettings">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.UISettings">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.UISettings(MonoTouch.Foundation.NSCoder)">
+            <param name="coder">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.UISettings(MonoTouch.Foundation.NSObjectFlag)">
+            <param name="t">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.UISettings(System.IntPtr)">
+            <param name="handle">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.UISettings.ClassHandle">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.UISettings.CompassButton">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.UISettings.MyLocationButton">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.UISettings.RotateGestures">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.UISettings.ScrollGestures">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Google.Maps.UISettings.SetAllGesturesEnabled(System.Boolean)">
+            <param name="enabled">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.UISettings.TiltGestures">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Google.Maps.UISettings.ZoomGestures">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="T:Google.Maps.VisibleRegion">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="C:Google.Maps.VisibleRegion(System.Double,System.Double,System.Double,System.Double,System.Double,System.Double,System.Double,System.Double)">
+            <param name="nearLeftLatitude">To be added.</param>
+            <param name="nearLeftLongitude">To be added.</param>
+            <param name="nearRightLatitude">To be added.</param>
+            <param name="nearRightLongitude">To be added.</param>
+            <param name="farLeftLatitude">To be added.</param>
+            <param name="farLeftLongitude">To be added.</param>
+            <param name="farRightLatitude">To be added.</param>
+            <param name="farRightLongitude">To be added.</param>
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="F:Google.Maps.VisibleRegion.FarLeft">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="F:Google.Maps.VisibleRegion.FarRight">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="F:Google.Maps.VisibleRegion.NearLeft">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="F:Google.Maps.VisibleRegion.NearRight">
+            <summary>To be added.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+    </members>
+</doc>
